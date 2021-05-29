@@ -1,0 +1,1 @@
+gcc -o pratica12 main.c funcoes.c globais.c -ansi -Wall -pedantic
